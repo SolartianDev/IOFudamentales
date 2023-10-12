@@ -8,8 +8,8 @@ import java.io.IOException;
 public class CrearCopiaDeArchivo {
     public static void main(String[] args) {
         // Ruta del archivo de imagen original y el nuevo archivo de copia
-        String rutaArchivoOriginal = "files//MODULO_12.ppt";
-        String rutaArchivoCopia = "files//MODULO_12_copia.ppt";
+        String rutaArchivoOriginal = "files//java.jpg";
+        String rutaArchivoCopia = "files//java_copia.jpg";
 
         try {
             // Crear un FileInputStream para el archivo de imagen original

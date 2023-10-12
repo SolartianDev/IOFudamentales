@@ -11,7 +11,7 @@ public class CrearArchivo {
     public static void main(String[] args) {
         // Nombre del archivo que vamos a crear
         String nombreArchivo = "files//archivo.txt";
-        String ruta = "C:/Users/mont_/Downloads/archivo.txt";
+        String ruta = "C:/UsersvRYZEN/Documents/NetBeansProjects/Java IOFundamentals/files";
         
         try {
             // Crear un objeto FileWriter para el archivo

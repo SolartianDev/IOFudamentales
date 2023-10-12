@@ -25,7 +25,7 @@ public class EscaneoArchivoInteractivo {
         return contadorInstancias; // (12) Devuelve el conteo de instancias de la palabra de búsqueda en el archivo.
     }
 
-    // Método principal
+    // Método principal METODO MAIN
     public static void main(String[] args) {
         if (args.length < 1) { // (13) Comprueba si se proporciona al menos un argumento de línea de comandos.
             System.out.println("Uso: java EscaneoArchivoInteractivo <archivo a buscar>");
